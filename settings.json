@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -29,17 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 300,
+      "repeat-delay": 1800,
       "messages": [
-        "Yg liat Chat ini berati suka nyoli",
-        "Nigger",
-        "HIDUP YURI!!!",
-        "Jembut mu item",
-        "Bacot Lu Ireng",
-        "Otak Itu Di Pake Tolol",
-        "Nonton Porn Hub Asik",
-        "HIDUP JOKOWI!!!",
-        "Gokil Desuwa"
+        "I See You"
       ]
     },
     "chat-log": true,
