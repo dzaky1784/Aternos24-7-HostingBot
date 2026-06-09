@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AZKA",
   "bot-account": {
-    "username": "DZ178",
+    "username": "AZKA",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "game-gnl-jh1.raznar.net",
-    "port": 25038,
+    "ip": "15.235.144.96",
+    "port": 11119,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Yg liat Chat ini berati suka nyoli",
+        "Nonton di Porn Hub emg the best",
+        "Aku Suka Yuri"
       ]
     },
     "chat-log": true,
@@ -87,6 +87,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
