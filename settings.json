@@ -30,11 +30,10 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 1800,
-      "messages": [
-        "Aku Yorushika",
-        "Nigger",
-        "Yg Ada Di Server Ini Pasti Ireng",
-        "Hidup Lonte"
+      "messages":
+        "Sehat Selalu Yg Ada Di Server",
+        "Bakso Tanpa Tepung",
+        "HIDUP MIKU!!"
       ]
     },
     "chat-log": true,
