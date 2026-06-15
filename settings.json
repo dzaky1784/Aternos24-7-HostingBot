@@ -30,7 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 1800,
-      "messages":
+      "messages": {
         "Sehat Selalu Yg Ada Di Server",
         "Bakso Tanpa Tepung",
         "HIDUP MIKU!!",
