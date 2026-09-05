@@ -6,20 +6,20 @@
     "type": "offline"
   },
   "server": {
-    "ip": "15.235.215.108",
-    "port": 10002,
+    "ip": "15.235.164.32",
+    "port": 13119,
     "version": "1.21.1",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": -58,
-    "y": 78,
-    "z": 583
+    "x": 0,
+    "y": 0,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
